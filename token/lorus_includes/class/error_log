@@ -1,0 +1,737 @@
+[02-Dec-2025 11:47:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'case_number' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php:500
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php(500): PDOStatement->execute()
+#1 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(29): insert_case()
+#2 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 500
+[02-Dec-2025 11:47:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'case_number' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php:500
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php(500): PDOStatement->execute()
+#1 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(29): insert_case()
+#2 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 500
+[02-Dec-2025 11:47:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'case_number' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php:500
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php(500): PDOStatement->execute()
+#1 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(29): insert_case()
+#2 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 500
+[02-Dec-2025 11:47:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'case_number' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php:500
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php(500): PDOStatement->execute()
+#1 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(29): insert_case()
+#2 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 500
+[02-Dec-2025 11:47:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'case_number' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php:500
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php(500): PDOStatement->execute()
+#1 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(29): insert_case()
+#2 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 500
+[02-Dec-2025 11:47:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'case_number' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php:500
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php(500): PDOStatement->execute()
+#1 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(29): insert_case()
+#2 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 500
+[02-Dec-2025 11:47:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'case_number' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php:500
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php(500): PDOStatement->execute()
+#1 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(29): insert_case()
+#2 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 500
+[02-Dec-2025 11:47:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'case_number' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php:500
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php(500): PDOStatement->execute()
+#1 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(29): insert_case()
+#2 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 500
+[02-Dec-2025 11:47:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'case_number' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php:500
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php(500): PDOStatement->execute()
+#1 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(29): insert_case()
+#2 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 500
+[02-Dec-2025 11:47:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'case_number' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php:500
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php(500): PDOStatement->execute()
+#1 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(29): insert_case()
+#2 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 500
+[02-Dec-2025 11:47:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'case_number' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php:500
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php(500): PDOStatement->execute()
+#1 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(29): insert_case()
+#2 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 500
+[02-Dec-2025 11:47:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'case_number' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php:500
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php(500): PDOStatement->execute()
+#1 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(29): insert_case()
+#2 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 500
+[02-Dec-2025 11:47:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'case_number' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php:500
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php(500): PDOStatement->execute()
+#1 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(29): insert_case()
+#2 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 500
+[02-Dec-2025 11:47:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'case_number' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php:500
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php(500): PDOStatement->execute()
+#1 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(29): insert_case()
+#2 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 500
+[02-Dec-2025 11:47:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'case_number' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php:500
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php(500): PDOStatement->execute()
+#1 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(29): insert_case()
+#2 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 500
+[02-Dec-2025 11:47:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'case_number' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php:500
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php(500): PDOStatement->execute()
+#1 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(29): insert_case()
+#2 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 500
+[02-Dec-2025 11:47:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'case_number' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php:500
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php(500): PDOStatement->execute()
+#1 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(29): insert_case()
+#2 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 500
+[02-Dec-2025 11:47:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'case_number' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php:500
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php(500): PDOStatement->execute()
+#1 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(29): insert_case()
+#2 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 500
+[02-Dec-2025 11:47:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'case_number' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php:500
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php(500): PDOStatement->execute()
+#1 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(29): insert_case()
+#2 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 500
+[02-Dec-2025 11:47:47 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'case_number' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php:500
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php(500): PDOStatement->execute()
+#1 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(29): insert_case()
+#2 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 500
+[02-Dec-2025 11:48:01 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'case_number' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php:500
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php(500): PDOStatement->execute()
+#1 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(29): insert_case()
+#2 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 500
+[02-Dec-2025 11:48:01 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'case_number' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php:500
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php(500): PDOStatement->execute()
+#1 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(29): insert_case()
+#2 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 500
+[02-Dec-2025 11:48:19 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'case_number' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php:500
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php(500): PDOStatement->execute()
+#1 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(29): insert_case()
+#2 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 500
+[02-Dec-2025 11:48:32 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'case_number' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php:500
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php(500): PDOStatement->execute()
+#1 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(29): insert_case()
+#2 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 500
+[02-Dec-2025 12:02:21 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'case_number' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php:500
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php(500): PDOStatement->execute()
+#1 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(29): insert_case()
+#2 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 500
+[02-Dec-2025 12:24:20 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function filter_cdr_data() in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php:208
+Stack trace:
+#0 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 208
+[02-Dec-2025 12:26:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function filter_cdr_data() in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php:208
+Stack trace:
+#0 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 208
+[04-Dec-2025 10:59:43 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column '___phpmyadmin_sql_dump' in 'INSERT INTO' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php:80
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(80): PDO->prepare()
+#1 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 80
+[05-Dec-2025 16:25:08 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'case_number' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php:485
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php(485): PDOStatement->execute()
+#1 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(29): insert_case()
+#2 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 485
+[10-Dec-2025 10:23:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected token "<" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 256
+[10-Dec-2025 10:23:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected token "<" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 256
+[10-Dec-2025 10:23:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected token "<" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 256
+[10-Dec-2025 10:24:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected token "<" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 256
+[10-Dec-2025 10:29:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected identifier "location_lat", expecting "," or ";" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 224
+[10-Dec-2025 10:29:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected identifier "location_lat", expecting "," or ";" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 224
+[10-Dec-2025 10:29:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected identifier "location_lat", expecting "," or ";" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 224
+[10-Dec-2025 10:29:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected identifier "location_lat", expecting "," or ";" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 224
+[11-Dec-2025 11:35:38 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'case_number' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php:499
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php(499): PDOStatement->execute()
+#1 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(29): insert_case()
+#2 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 499
+[11-Dec-2025 11:35:40 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'case_number' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php:499
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php(499): PDOStatement->execute()
+#1 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(29): insert_case()
+#2 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 499
+[12-Dec-2025 11:07:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function select_number_by_case() in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php:315
+Stack trace:
+#0 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 315
+[12-Dec-2025 11:14:09 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function select_number_by_case() in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php:315
+Stack trace:
+#0 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 315
+[12-Dec-2025 11:14:25 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function select_number_by_case() in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php:315
+Stack trace:
+#0 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 315
+[12-Dec-2025 11:14:30 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function select_number_by_case() in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php:315
+Stack trace:
+#0 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 315
+[15-Dec-2025 10:30:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected token "?" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 277
+[15-Dec-2025 10:30:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected token "?" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 277
+[15-Dec-2025 10:30:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected token "?" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 277
+[17-Dec-2025 15:53:07 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 456
+[17-Dec-2025 15:53:07 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 456
+[31-Dec-2025 11:14:40 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 456
+[31-Dec-2025 11:14:40 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 456
+[31-Dec-2025 11:14:44 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 456
+[31-Dec-2025 11:14:44 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 456
+[31-Dec-2025 11:16:24 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 456
+[31-Dec-2025 11:16:24 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 456
+[31-Dec-2025 11:17:24 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 456
+[31-Dec-2025 11:17:24 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 456
+[31-Dec-2025 11:18:26 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 456
+[31-Dec-2025 11:18:26 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 456
+[31-Dec-2025 11:19:52 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 456
+[31-Dec-2025 11:19:52 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 456
+[31-Dec-2025 11:19:58 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 456
+[31-Dec-2025 11:19:58 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 456
+[31-Dec-2025 11:20:03 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 456
+[31-Dec-2025 11:20:03 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 456
+[05-Jan-2026 21:21:42 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 460
+[05-Jan-2026 21:21:54 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 460
+[05-Jan-2026 21:22:06 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 460
+[05-Jan-2026 21:22:06 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 460
+[05-Jan-2026 21:22:06 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 460
+[08-Jan-2026 11:51:17 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 11:51:17 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 11:51:19 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 11:51:19 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 11:51:19 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 11:51:19 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 11:54:44 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 11:54:44 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 11:54:46 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 11:54:46 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 11:57:31 Asia/Kolkata] PHP Warning:  Undefined array key "mobile" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 432
+[08-Jan-2026 11:57:45 Asia/Kolkata] PHP Warning:  Undefined array key "mobile" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 432
+[08-Jan-2026 11:58:36 Asia/Kolkata] PHP Warning:  Undefined array key "mobile" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 432
+[08-Jan-2026 11:59:28 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 11:59:28 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 11:59:28 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 11:59:29 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:00:07 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 453
+[08-Jan-2026 12:00:10 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 400
+[08-Jan-2026 12:00:11 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:00:11 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:00:11 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:00:11 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:00:12 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:00:12 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:00:14 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 453
+[08-Jan-2026 12:01:20 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:01:20 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:01:21 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:01:21 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:01:23 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 453
+[08-Jan-2026 12:01:29 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:01:29 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:01:30 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:01:30 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:01:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 453
+[08-Jan-2026 12:01:35 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 400
+[08-Jan-2026 12:01:40 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:01:40 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:01:41 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:01:41 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:01:46 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 453
+[08-Jan-2026 12:01:48 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 400
+[08-Jan-2026 12:01:50 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:01:50 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:01:50 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:01:50 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:01:50 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:01:50 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:01:50 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:01:50 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:01:51 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:01:51 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:01:52 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:01:52 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:01:55 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 400
+[08-Jan-2026 12:02:08 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:02:08 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:02:09 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:02:10 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:02:11 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 400
+[08-Jan-2026 12:02:14 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 453
+[08-Jan-2026 12:05:20 Asia/Kolkata] PHP Warning:  Undefined array key "mobile" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 432
+[08-Jan-2026 12:05:30 Asia/Kolkata] PHP Warning:  Undefined array key "mobile" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 432
+[08-Jan-2026 12:05:35 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:05:35 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:05:36 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:05:36 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:05:38 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 453
+[08-Jan-2026 12:05:39 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 400
+[08-Jan-2026 12:05:45 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:05:45 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:05:46 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:05:46 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:05:48 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 400
+[08-Jan-2026 12:06:30 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:06:30 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:06:30 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:06:30 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:06:30 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:06:30 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:06:30 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:06:30 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:06:31 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:06:31 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 453
+[08-Jan-2026 12:06:31 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:06:36 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 400
+[08-Jan-2026 12:10:09 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:10:09 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:10:10 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:10:10 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:10:18 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:10:18 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:10:19 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:10:19 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:10:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:10:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:10:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:10:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:10:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:10:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:10:44 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:10:44 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:10:47 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:10:47 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:10:50 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:10:50 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:10:51 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:10:51 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:53:33 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:53:33 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:53:46 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:53:46 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:53:49 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 469
+[08-Jan-2026 12:53:49 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:53:49 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:53:52 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:53:52 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:53:52 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 12:53:52 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 12:55:43 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 469
+[08-Jan-2026 12:55:54 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 469
+[08-Jan-2026 12:59:20 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 469
+[08-Jan-2026 15:43:29 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 469
+[08-Jan-2026 15:43:29 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 469
+[08-Jan-2026 15:43:36 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 469
+[08-Jan-2026 15:43:38 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 469
+[08-Jan-2026 15:48:07 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 15:48:07 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 15:48:09 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 15:48:09 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 15:48:10 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 15:48:10 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 15:48:11 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 15:48:11 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 15:48:16 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 15:48:16 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 15:49:00 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 15:49:00 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 15:49:00 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 15:49:00 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 15:49:00 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 15:49:00 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 15:49:00 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 15:49:00 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 15:49:00 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 15:49:00 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 15:58:42 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 15:58:42 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 15:58:43 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 15:58:43 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 15:58:48 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 15:58:48 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 15:58:48 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 15:58:48 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 15:58:49 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 15:58:49 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 15:58:49 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 15:58:49 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 15:58:53 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 15:58:53 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 15:58:54 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 15:58:54 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 15:59:06 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 15:59:06 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 15:59:07 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 15:59:07 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 15:59:10 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 15:59:10 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 15:59:11 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 15:59:11 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 17:04:03 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 17:04:03 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 17:04:04 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 17:04:04 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 17:42:47 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 17:42:47 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 17:42:47 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 17:42:47 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 17:43:40 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 469
+[08-Jan-2026 17:53:30 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 17:53:30 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 17:53:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 17:53:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 17:53:34 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 17:53:34 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[08-Jan-2026 17:53:35 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[08-Jan-2026 17:53:35 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[09-Jan-2026 10:06:49 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[09-Jan-2026 10:06:49 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[09-Jan-2026 10:06:52 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[09-Jan-2026 10:06:52 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[09-Jan-2026 10:06:52 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[09-Jan-2026 10:06:52 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[09-Jan-2026 10:07:29 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[09-Jan-2026 10:07:29 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[09-Jan-2026 10:07:30 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[09-Jan-2026 10:07:30 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[09-Jan-2026 10:08:25 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[09-Jan-2026 10:08:25 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[09-Jan-2026 10:08:31 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[09-Jan-2026 10:08:31 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[09-Jan-2026 10:08:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[09-Jan-2026 10:08:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[09-Jan-2026 10:08:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[09-Jan-2026 10:08:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[09-Jan-2026 10:08:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[09-Jan-2026 10:08:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[09-Jan-2026 10:12:38 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 469
+[09-Jan-2026 10:12:45 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 469
+[09-Jan-2026 10:12:46 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 469
+[09-Jan-2026 10:12:47 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 469
+[09-Jan-2026 10:12:47 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 469
+[09-Jan-2026 10:12:47 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 469
+[09-Jan-2026 11:16:19 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 469
+[09-Jan-2026 11:16:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 469
+[09-Jan-2026 11:16:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 469
+[09-Jan-2026 11:16:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 469
+[09-Jan-2026 11:18:49 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/functions_class.php on line 469
+[09-Jan-2026 14:39:14 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[09-Jan-2026 14:39:14 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[09-Jan-2026 14:39:16 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[09-Jan-2026 14:39:16 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[09-Jan-2026 14:39:16 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[09-Jan-2026 14:39:16 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[09-Jan-2026 14:39:17 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[09-Jan-2026 14:39:17 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[09-Jan-2026 14:39:18 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[09-Jan-2026 14:39:18 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[09-Jan-2026 14:39:18 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[09-Jan-2026 14:39:18 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[10-Jan-2026 11:06:33 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[10-Jan-2026 11:06:33 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[10-Jan-2026 11:06:35 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[10-Jan-2026 11:06:35 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[10-Jan-2026 11:06:35 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[10-Jan-2026 11:06:35 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[10-Jan-2026 11:08:41 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[10-Jan-2026 11:08:41 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[10-Jan-2026 11:08:41 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[10-Jan-2026 11:08:41 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[10-Jan-2026 11:08:41 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[10-Jan-2026 11:08:41 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[10-Jan-2026 11:08:41 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[10-Jan-2026 11:08:41 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[10-Jan-2026 11:09:07 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[10-Jan-2026 11:09:07 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[10-Jan-2026 11:09:09 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[10-Jan-2026 11:09:09 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[10-Jan-2026 11:09:11 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[10-Jan-2026 11:09:11 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[10-Jan-2026 11:09:12 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[10-Jan-2026 11:09:12 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[10-Jan-2026 11:30:27 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 526
+[10-Jan-2026 11:30:43 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 526
+[10-Jan-2026 11:30:48 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 526
+[10-Jan-2026 11:31:03 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 526
+[10-Jan-2026 11:31:59 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[10-Jan-2026 11:31:59 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[10-Jan-2026 11:32:01 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[10-Jan-2026 11:32:01 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[10-Jan-2026 11:32:02 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 194
+[10-Jan-2026 11:32:02 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 307
+[10-Jan-2026 11:33:29 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 526
+[10-Jan-2026 11:33:55 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 526
+[10-Jan-2026 11:34:17 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 593
+[10-Jan-2026 11:34:19 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 680
+[10-Jan-2026 12:20:07 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 526
+[10-Jan-2026 12:48:45 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_mobile' in 'INSERT INTO' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php:58
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(58): PDO->prepare()
+#1 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 58
+[10-Jan-2026 12:50:14 Asia/Kolkata] PHP Warning:  Undefined array key "db_user_id" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 21
+[10-Jan-2026 12:50:14 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_mobile' in 'INSERT INTO' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php:62
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(62): PDO->prepare()
+#1 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 62
+[10-Jan-2026 12:53:49 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_mobile' in 'INSERT INTO' in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php:48
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(48): PDO->prepare()
+#1 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 48
+[10-Jan-2026 14:20:30 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 380
+[10-Jan-2026 14:20:30 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 267
+[10-Jan-2026 14:20:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 267
+[10-Jan-2026 14:20:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 380
+[10-Jan-2026 14:20:35 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 267
+[10-Jan-2026 14:20:35 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 380
+[11-Jan-2026 00:49:30 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 267
+[11-Jan-2026 00:49:30 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 380
+[11-Jan-2026 00:49:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 380
+[11-Jan-2026 00:49:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 267
+[12-Jan-2026 10:51:17 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 380
+[12-Jan-2026 10:51:17 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 267
+[12-Jan-2026 10:51:18 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 380
+[12-Jan-2026 10:51:18 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 267
+[12-Jan-2026 13:33:21 Asia/Kolkata] PHP Warning:  Undefined array key "case_number" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 102
+[12-Jan-2026 13:33:21 Asia/Kolkata] PHP Warning:  Undefined array key "case_name" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 103
+[12-Jan-2026 13:33:21 Asia/Kolkata] PHP Warning:  Undefined array key "case_description" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 104
+[12-Jan-2026 13:33:21 Asia/Kolkata] PHP Warning:  Undefined array key "user_id" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 105
+[12-Jan-2026 13:33:24 Asia/Kolkata] PHP Warning:  Undefined array key "case_number" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 102
+[12-Jan-2026 13:33:24 Asia/Kolkata] PHP Warning:  Undefined array key "case_name" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 103
+[12-Jan-2026 13:33:24 Asia/Kolkata] PHP Warning:  Undefined array key "case_description" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 104
+[12-Jan-2026 13:33:24 Asia/Kolkata] PHP Warning:  Undefined array key "user_id" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 105
+[12-Jan-2026 13:33:25 Asia/Kolkata] PHP Warning:  Undefined array key "case_number" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 102
+[12-Jan-2026 13:33:25 Asia/Kolkata] PHP Warning:  Undefined array key "case_name" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 103
+[12-Jan-2026 13:33:25 Asia/Kolkata] PHP Warning:  Undefined array key "case_description" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 104
+[12-Jan-2026 13:33:25 Asia/Kolkata] PHP Warning:  Undefined array key "user_id" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 105
+[12-Jan-2026 13:42:26 Asia/Kolkata] PHP Warning:  Undefined array key "case_name" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 103
+[12-Jan-2026 13:42:26 Asia/Kolkata] PHP Warning:  Undefined array key "case_description" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 104
+[12-Jan-2026 14:18:25 Asia/Kolkata] PHP Warning:  Undefined array key "case_name" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 103
+[12-Jan-2026 14:18:25 Asia/Kolkata] PHP Warning:  Undefined array key "case_description" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 104
+[12-Jan-2026 14:33:46 Asia/Kolkata] PHP Warning:  Undefined array key "case_number" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 102
+[12-Jan-2026 14:33:46 Asia/Kolkata] PHP Warning:  Undefined array key "case_name" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 103
+[12-Jan-2026 14:33:46 Asia/Kolkata] PHP Warning:  Undefined array key "case_description" in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 104
+[12-Jan-2026 16:03:12 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 614
+[12-Jan-2026 16:03:13 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 614
+[12-Jan-2026 16:03:17 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 681
+[12-Jan-2026 16:03:18 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 768
+[12-Jan-2026 16:14:07 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[12-Jan-2026 16:14:07 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[12-Jan-2026 16:14:08 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[12-Jan-2026 16:14:08 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[12-Jan-2026 16:17:46 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 614
+[12-Jan-2026 16:17:50 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 681
+[12-Jan-2026 16:17:54 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 768
+[12-Jan-2026 16:17:55 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 681
+[12-Jan-2026 16:17:58 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 681
+[12-Jan-2026 16:17:59 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 768
+[12-Jan-2026 16:21:02 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 681
+[12-Jan-2026 16:21:03 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 768
+[12-Jan-2026 16:21:19 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 681
+[12-Jan-2026 16:21:25 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 681
+[12-Jan-2026 16:21:26 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 768
+[12-Jan-2026 16:23:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 614
+[12-Jan-2026 16:23:40 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 614
+[12-Jan-2026 16:23:41 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 681
+[12-Jan-2026 16:23:42 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 768
+[12-Jan-2026 16:25:00 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 614
+[12-Jan-2026 16:25:12 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 681
+[12-Jan-2026 16:25:14 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 768
+[12-Jan-2026 16:25:40 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 681
+[12-Jan-2026 16:28:31 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[12-Jan-2026 16:28:31 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[12-Jan-2026 16:28:31 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[12-Jan-2026 16:28:31 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[12-Jan-2026 16:28:53 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[12-Jan-2026 16:28:53 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[12-Jan-2026 16:28:55 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[12-Jan-2026 16:28:55 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[12-Jan-2026 16:28:56 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[12-Jan-2026 16:28:56 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[12-Jan-2026 16:33:00 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[12-Jan-2026 16:33:00 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[12-Jan-2026 16:34:28 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[12-Jan-2026 16:34:28 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[12-Jan-2026 16:55:01 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 614
+[12-Jan-2026 16:55:06 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 614
+[12-Jan-2026 16:55:08 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 681
+[12-Jan-2026 16:55:19 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 614
+[12-Jan-2026 16:55:21 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 681
+[12-Jan-2026 16:58:41 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 614
+[12-Jan-2026 16:58:51 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 614
+[12-Jan-2026 17:04:19 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[12-Jan-2026 17:04:19 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[12-Jan-2026 17:04:20 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[12-Jan-2026 17:04:20 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[12-Jan-2026 17:04:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 614
+[12-Jan-2026 17:09:37 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 614
+[12-Jan-2026 17:25:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[12-Jan-2026 17:25:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[12-Jan-2026 17:25:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[12-Jan-2026 17:25:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[12-Jan-2026 17:26:11 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[12-Jan-2026 17:26:12 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[12-Jan-2026 17:26:59 Asia/Kolkata] PHP Warning:  Undefined variable $tower in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1042
+[12-Jan-2026 17:27:44 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 614
+[12-Jan-2026 17:28:31 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 614
+[12-Jan-2026 17:28:56 Asia/Kolkata] PHP Warning:  Undefined variable $tower in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1042
+[12-Jan-2026 17:29:10 Asia/Kolkata] PHP Warning:  Undefined variable $tower in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1042
+[12-Jan-2026 17:29:10 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php:1056
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(1056): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1056
+[12-Jan-2026 17:29:15 Asia/Kolkata] PHP Warning:  Undefined variable $tower in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1042
+[12-Jan-2026 17:29:15 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php:1056
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(1056): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1056
+[12-Jan-2026 17:29:25 Asia/Kolkata] PHP Warning:  Undefined variable $tower in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1042
+[12-Jan-2026 17:29:25 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php:1056
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(1056): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1056
+[12-Jan-2026 17:30:13 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 866
+[12-Jan-2026 17:52:24 Asia/Kolkata] PHP Warning:  Undefined variable $tower in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1129
+[12-Jan-2026 17:52:24 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php:1143
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(1143): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1143
+[12-Jan-2026 17:53:00 Asia/Kolkata] PHP Warning:  Undefined variable $tower in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1129
+[12-Jan-2026 17:53:00 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php:1143
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(1143): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1143
+[12-Jan-2026 17:53:08 Asia/Kolkata] PHP Warning:  Undefined variable $tower in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1129
+[12-Jan-2026 17:53:10 Asia/Kolkata] PHP Warning:  Undefined variable $tower in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1129
+[12-Jan-2026 17:53:12 Asia/Kolkata] PHP Warning:  Undefined variable $tower in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1129
+[12-Jan-2026 17:53:42 Asia/Kolkata] PHP Warning:  Undefined variable $tower in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1129
+[12-Jan-2026 17:53:51 Asia/Kolkata] PHP Warning:  Undefined variable $tower in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1129
+[12-Jan-2026 17:54:18 Asia/Kolkata] PHP Warning:  Undefined variable $tower in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1129
+[12-Jan-2026 17:54:28 Asia/Kolkata] PHP Warning:  Undefined variable $tower in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1129
+[12-Jan-2026 17:54:28 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php:1143
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(1143): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1143
+[12-Jan-2026 17:55:04 Asia/Kolkata] PHP Warning:  Undefined variable $tower in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1129
+[12-Jan-2026 17:55:06 Asia/Kolkata] PHP Warning:  Undefined variable $tower in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1129
+[12-Jan-2026 17:55:06 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php:1143
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(1143): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1143
+[12-Jan-2026 17:55:36 Asia/Kolkata] PHP Warning:  Undefined variable $tower in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1129
+[12-Jan-2026 17:55:36 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php:1143
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(1143): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1143
+[12-Jan-2026 17:57:55 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1130
+[12-Jan-2026 17:58:04 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1130
+[12-Jan-2026 17:58:15 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1130
+[12-Jan-2026 18:00:23 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1130
+[12-Jan-2026 18:00:29 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1130
+[12-Jan-2026 18:00:36 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 614
+[12-Jan-2026 18:00:43 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 614
+[12-Jan-2026 18:01:00 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 614
+[12-Jan-2026 18:08:43 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1130
+[12-Jan-2026 18:12:43 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 614
+[13-Jan-2026 10:18:27 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[13-Jan-2026 10:18:27 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[13-Jan-2026 10:18:29 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[13-Jan-2026 10:18:29 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[13-Jan-2026 10:18:29 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[13-Jan-2026 10:18:29 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[13-Jan-2026 10:18:55 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[13-Jan-2026 10:18:55 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[13-Jan-2026 10:18:55 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[13-Jan-2026 10:18:55 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[13-Jan-2026 10:18:55 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[13-Jan-2026 10:18:55 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[13-Jan-2026 10:19:20 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1130
+[13-Jan-2026 10:41:27 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[13-Jan-2026 10:41:27 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[13-Jan-2026 10:41:28 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[13-Jan-2026 10:41:28 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[13-Jan-2026 10:41:31 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[13-Jan-2026 10:41:31 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[13-Jan-2026 10:41:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[13-Jan-2026 10:41:32 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[13-Jan-2026 10:41:33 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[13-Jan-2026 10:41:34 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[13-Jan-2026 10:41:42 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[13-Jan-2026 10:41:42 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[13-Jan-2026 10:41:42 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[13-Jan-2026 10:41:42 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[13-Jan-2026 10:41:44 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[13-Jan-2026 10:41:44 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[13-Jan-2026 10:41:45 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[13-Jan-2026 10:41:45 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[13-Jan-2026 10:41:45 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[13-Jan-2026 10:41:45 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[13-Jan-2026 10:41:45 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[13-Jan-2026 10:41:45 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[13-Jan-2026 10:41:45 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[13-Jan-2026 10:41:45 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[13-Jan-2026 10:48:28 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[13-Jan-2026 10:48:28 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[13-Jan-2026 10:48:28 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[13-Jan-2026 10:48:28 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[13-Jan-2026 10:51:12 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 614
+[13-Jan-2026 10:51:13 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 614
+[13-Jan-2026 10:51:33 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 614
+[13-Jan-2026 10:53:59 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 614
+[13-Jan-2026 12:19:46 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 282
+[13-Jan-2026 12:19:46 Asia/Kolkata] PHP Warning:  Array to string conversion in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 395
+[13-Jan-2026 12:39:06 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php:1140
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(1140): PDOStatement->bindParam()
+#1 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1140
+[13-Jan-2026 12:39:12 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php:1140
+Stack trace:
+#0 /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php(1140): PDOStatement->bindParam()
+#1 {main}
+  thrown in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1140
+[13-Jan-2026 12:40:42 Asia/Kolkata] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1103
+[13-Jan-2026 12:40:45 Asia/Kolkata] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home1/securigenceindia/public_html/demo_realstate/cdr_project/lorus_includes/class/ajax.php on line 1103
